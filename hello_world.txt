@@ -1,1 +1,2 @@
 Learning git hub!
+Trying the commit on VSC
